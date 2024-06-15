@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mobeen</h1>
-<h3 align="center">A passionate Computer Science student from Pakistan</h3>
+<h3 align="center">A (currently Self Proclaimed) Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobeen0&label=Profile%20views&color=0e75b6&style=flat" alt="mobeen0" /> </p>
 
