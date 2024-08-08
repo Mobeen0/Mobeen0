@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobeen0&label=Profile%20views&color=0e75b6&style=flat" alt="mobeen0" /> </p>
 
-- 👨‍💻 All of my projects are available on my Website:- [https://mobeen0.github.io/Portfolio/](https://mobeen0.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on my Website: [https://mobeen0.github.io/Portfolio/](https://mobeen0.github.io/Portfolio/)
 
 - 📫 How to reach me **muhammad.mobeen100@gmail.com**
 
