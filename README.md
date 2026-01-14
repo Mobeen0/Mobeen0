@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobeen0" alt="mobeen0" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mobeen0.github.io/Portfolio/](https://mobeen0.github.io/Portfolio/)
 
 - 📫 How to reach me **muhammad.mobeen100@gmail.com**
 
